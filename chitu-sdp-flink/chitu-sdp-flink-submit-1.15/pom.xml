@@ -15,8 +15,8 @@
 
 
     <properties>
-        <flink.version>1.15.2</flink.version>
-        <hadoop.version>3.1.1</hadoop.version>
+        <flink.version>2.0.0</flink.version>
+        <hadoop.version>3.2.0</hadoop.version>
 <!--        <scala.version>2.12.7</scala.version>-->
         <scala.version>2.11.12</scala.version>
     </properties>
