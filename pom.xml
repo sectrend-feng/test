@@ -27,7 +27,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <sdp.cloud.version>1.0.0-SNAPSHOT</sdp.cloud.version>
         <id.center.version>1.0.0-SNAPSHOT</id.center.version>
-        <hadoop.version>3.1.1</hadoop.version>
+        <hadoop.version>3.2.0</hadoop.version>
 
         <slf4j.version>1.7.32</slf4j.version>
         <logback.version>1.2.6</logback.version>
