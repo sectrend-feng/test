@@ -27,7 +27,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <sdp.cloud.version>1.0.0-SNAPSHOT</sdp.cloud.version>
         <id.center.version>1.0.0-SNAPSHOT</id.center.version>
-        <hadoop.version>3.1.1</hadoop.version>
+        <hadoop.version>3.2.0</hadoop.version>
 
         <slf4j.version>1.7.32</slf4j.version>
         <logback.version>1.2.6</logback.version>
@@ -37,7 +37,7 @@
         <rest-assured.version>4.4.0</rest-assured.version>
         <groovy.version>3.0.2</groovy.version>
         <guava.version>28.2-jre</guava.version>
-        <hive.version>3.1.0</hive.version>
+        <hive.version>4.0.0</hive.version>
         <kafka.version>2.4.1</kafka.version>
 
         <java.version>1.8</java.version>
