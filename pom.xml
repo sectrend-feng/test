@@ -37,7 +37,7 @@
         <rest-assured.version>4.4.0</rest-assured.version>
         <groovy.version>3.0.2</groovy.version>
         <guava.version>28.2-jre</guava.version>
-        <hive.version>3.1.0</hive.version>
+        <hive.version>4.1.0</hive.version>
         <kafka.version>2.4.1</kafka.version>
 
         <java.version>1.8</java.version>
