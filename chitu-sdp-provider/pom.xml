@@ -11,7 +11,7 @@
     <artifactId>chitu-sdp-provider</artifactId>
 
     <properties>
-        <flink.version>1.14.3</flink.version>
+        <flink.version>2.0.1</flink.version>
         <scala.binary.version>2.11</scala.binary.version>
     </properties>
 
